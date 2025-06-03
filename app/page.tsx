@@ -167,14 +167,14 @@ export default function Portfolio() {
               className="space-y-6"
             >
               <p className="text-lg text-gray-300 leading-relaxed">
-                I'm a passionate BTech student specializing in Computer Science with a focus on full-stack development.
+                I am a passionate BTech student specializing in Computer Science with a focus on full-stack development.
                 My journey in technology began with curiosity and has evolved into a deep commitment to creating
                 innovative solutions that make a difference.
               </p>
 
               <p className="text-lg text-gray-300 leading-relaxed">
                 With expertise spanning both frontend and backend technologies, I enjoy tackling complex problems and
-                turning ideas into reality. I'm constantly learning new technologies and staying updated with industry
+                turning ideas into reality. I am constantly learning new technologies and staying updated with industry
                 trends to deliver cutting-edge solutions.
               </p>
 
@@ -281,12 +281,12 @@ export default function Portfolio() {
             viewport={{ once: true }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              Let's Connect
+              Let us Connect
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mb-8"></div>
 
             <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
-              I'm always open to discussing new opportunities, interesting projects, or just having a chat about
+              I am always open to discussing new opportunities, interesting projects, or just having a chat about
               technology.
             </p>
 

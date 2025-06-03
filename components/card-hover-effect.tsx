@@ -14,7 +14,7 @@ interface HoverEffectProps {
   }>
 }
 
-export function HoverEffect({ items }: HoverEffectProps) {
+export function HoverEffect({ }: HoverEffectProps) {
   const projects = [
     {
       title: "Rhino: Web3 wallet",
